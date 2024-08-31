@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState } from 'react'; //use state
 import './App.css'; 
 const App=()=>{
   let [counter,setCounter]=useState(0);
